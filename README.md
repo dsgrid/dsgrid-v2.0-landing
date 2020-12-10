@@ -14,3 +14,7 @@ Reference Repos
 - [dsgrid-utils](https://github.com/dsgrid/dsgrid-utils)
 - [dsgrid-flex](https://github.nrel.gov/dsgrid/dsgrid-flex)
 - [la100-agent-allocation](https://github.com/dsgrid/la100-agent-allocation)
+
+S3 Buckets:
+- `s3://nrel-dsgrid`: use for input/output/derived dsgrid dataset internal (and maybe external) publication
+- `s3://nrel-dsgrid-scratch`: use for scratch work
